@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://www.jetpackplatform.com/">
-        <img src="LINK_TO_JETPACK_LOGO" alt="Jetpack Logo" width="35%">
+    <a href="https://gojetpack.co.uk/">
+        <img src="https://assets-global.website-files.com/663c83a952f3e2ab4628ab65/663ca57e5adc280e7e4276f2_Jetpack%20Logo%20Horizontal.png" alt="Jetpack Logo" width="35%">
     </a>
     <br /><br />
     <h3 align="center">Launching Ambitious Founders into the Future of Funding.</h3>
