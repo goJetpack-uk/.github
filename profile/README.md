@@ -32,7 +32,7 @@ Are you an investor looking for groundbreaking startups, or a service provider w
 ## Stay Connected
 
 - **Website:** [Jetpack](https://www.gojetpack.co.uk/)
-- **Support:** Get in touch with our [Support Team](https://www.jetpackplatform.com/support)
+- **Support:** Get in touch with our [Support Team](mailto:admin@gojetpack.co.uk)
 - **Social Media:** Follow us on [LinkedIn](https://www.linkedin.com/company/jetpackplatform), [Twitter](https://twitter.com/jetpackplatform), [Facebook](https://www.facebook.com/jetpackplatform)
 
 ## Join Our Ecosystem
