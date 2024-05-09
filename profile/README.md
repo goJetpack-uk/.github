@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://gojetpack.co.uk/">
+    <a href="https://gojetpack.co.uk/login">
         <img src="https://assets-global.website-files.com/663c83a952f3e2ab4628ab65/663ca57e5adc280e7e4276f2_Jetpack%20Logo%20Horizontal.png" alt="Jetpack Logo" width="35%">
     </a>
     <br /><br />
@@ -31,7 +31,7 @@ Are you an investor looking for groundbreaking startups, or a service provider w
 
 ## Stay Connected
 
-- **Website:** [Jetpack](https://www.gojetpack.co.uk/)
+- **Website:** [Jetpack](https://gojetpack.co.uk/login)
 - **Support:** Get in touch with our [Support Team](mailto:admin@gojetpack.co.uk)
 - **Social Media:** Follow us on [LinkedIn](https://www.linkedin.com/company/jetpackplatform), [Twitter](https://twitter.com/jetpackplatform), [Facebook](https://www.facebook.com/jetpackplatform)
 
