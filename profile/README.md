@@ -37,7 +37,7 @@ Are you an investor looking for groundbreaking startups, or a service provider w
 
 ## Join Our Ecosystem
 
-If you're a founder eager for investment, or a potential collaborator interested in supporting innovative startups, we'd love to hear from you. [Contact us](admin@gojetpack.co.uk) to discover how you can get involved.
+If you're a founder eager for investment, or a potential collaborator interested in supporting innovative startups, we'd love to hear from you. [Contact us](mailto:admin@gojetpack.co.uk) to discover how you can get involved.
 
 ---
 
